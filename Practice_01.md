@@ -171,6 +171,17 @@ kubectl delete deployment nginx
 minikube stop
 minikube delete
 ```
+## Screenshots
+
+![Image-01](image/k1.png "Screenshot")
+
+![Image-01](image/k2.png "Screenshot")
+
+![Image-01](image/k3.png "Screenshot")
+
+![Image-01](image/k4.png "Screenshot")
+
+![Image-01](image/k5.png "Screenshot")
 
 ---
 
