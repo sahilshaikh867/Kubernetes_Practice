@@ -222,4 +222,4 @@ kubectl port-forward svc/nginx-deploy 8080:80
 
 ---
 
-Happy to convert this into a prettier README with badges, or split it into separate `minikube.md` and `hpa.md`. Want that? 😎
+Happy to share that .....@sahilshaikh86767
