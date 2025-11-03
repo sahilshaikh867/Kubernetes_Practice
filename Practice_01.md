@@ -188,9 +188,13 @@ minikube delete
 ## 🎯 Final Check
 
 ✅ Docker installed
+
 ✅ Minikube cluster running
+
 ✅ Nginx deployed
+
 ✅ Metrics server active
+
 ✅ HPA scaling pods automatically
 
 ---
